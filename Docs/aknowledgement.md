@@ -21,8 +21,9 @@ With profound gratitude, we acknowledge each and every person who has played a r
 Thank you for being part of the AquaGuard family.
 
 Sincerely,
+
 [KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a) 
 
 Founder and Creator 
 
-[28 August 2023]
+28 August 2023
