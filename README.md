@@ -12,7 +12,8 @@
    - [Vision](#vision)
    - [Mission](#mission) 
 3. [Problems We Hope To Solve](#problems-we-hope-to-solve) 
-
+4. [Our Technologies](#our-technologies)
+5. 
 # Introduction
 
 Project Title: AquaGuard: Smart Water Management Platform
@@ -95,3 +96,5 @@ Problems We Hope to Solve:
 8. **Lack of Technological Innovation:** Through collaborative research efforts, AquaGuard seeks to drive technological innovation in water management, ensuring that the latest advancements are applied to address the water crisis.
 
 By addressing these challenges, AquaGuard strives to be a transformative force in the global effort to ensure clean water access for all, contributing to the preservation of both human and environmental well-being.
+
+# Our Technologies
