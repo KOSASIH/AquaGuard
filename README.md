@@ -74,7 +74,7 @@ Our vision is to create a world where every individual has access to clean and s
 
 Our mission is to develop and deploy AquaGuard, a comprehensive platform that leverages the power of AI, ML, NLP, and Blockchain to tackle the global clean water crisis. Through real-time monitoring, pollution detection, optimized distribution, and community engagement, we aim to empower individuals, communities, and authorities to actively participate in preserving and enhancing water quality, making informed decisions, and creating a sustainable water ecosystem worldwide.
 
-# Problems We Hope Solve 
+# Problems We Hope To Solve 
 
 Problems We Hope to Solve:
 
