@@ -11,6 +11,7 @@
 2. [Vision and Mission](#vision-and-mission)
    - [Vision](#vision)
    - [Mission](#mission) 
+3. [Problems We Hope To Solve](#problems-we-hope-to-solve) 
 
 # Introduction
 
@@ -55,10 +56,13 @@ AquaGuard is an integrated platform that utilizes cutting-edge technologies to a
    - Establish partnerships with research institutions and universities to continually improve the platform's algorithms and technologies.
    - Use AI to analyze research papers, patents, and scientific data for breakthrough ideas in water treatment.
 
-Impact:
+## Impact:
+
 AquaGuard aims to provide a holistic solution for addressing the global clean water crisis by combining AI, ML, NLP, and blockchain technologies. The platform will empower communities, governments, and organizations to actively participate in water conservation efforts, make data-driven decisions, and ensure the sustainable use of water resources.
 
-Note: Developing such a comprehensive project would require a dedicated team of experts and substantial resources. Additionally, partnerships with relevant stakeholders and experts in the field would be crucial to its success.
+## Note: 
+
+Developing such a comprehensive project would require a dedicated team of experts and substantial resources. Additionally, partnerships with relevant stakeholders and experts in the field would be crucial to its success.
 
 # Vision and Mission 
 
@@ -69,3 +73,25 @@ Our vision is to create a world where every individual has access to clean and s
 ## Mission:
 
 Our mission is to develop and deploy AquaGuard, a comprehensive platform that leverages the power of AI, ML, NLP, and Blockchain to tackle the global clean water crisis. Through real-time monitoring, pollution detection, optimized distribution, and community engagement, we aim to empower individuals, communities, and authorities to actively participate in preserving and enhancing water quality, making informed decisions, and creating a sustainable water ecosystem worldwide.
+
+# Problems We Hope Solve 
+
+Problems We Hope to Solve:
+
+1. **Water Contamination and Pollution:** By utilizing AI, ML, and NLP, we aim to swiftly detect and identify sources of water pollution, enabling timely intervention to prevent contamination and safeguard public health.
+
+2. **Inefficient Water Distribution:** Our platform seeks to optimize water distribution through predictive analytics, ensuring that water reaches every corner of a region efficiently, reducing wastage and shortages.
+
+3. **Lack of Community Engagement:** Through a user-friendly app and gamification, we intend to engage individuals and communities in water conservation efforts, promoting a sense of responsibility and collective action.
+
+4. **Limited Access to Clean Water:** By improving purification processes and enabling efficient desalination, we strive to increase the availability of clean water, especially in regions facing scarcity.
+
+5. **Lack of Data-Driven Decision-Making:** AquaGuard aims to bridge the gap between data and decision-making for water management authorities, providing actionable insights and empowering them to make informed choices.
+
+6. **Environmental Degradation:** Our platform intends to contribute to reducing environmental degradation caused by water pollution, leading to the restoration and protection of aquatic ecosystems.
+
+7. **Transparency and Accountability:** Utilizing Blockchain, we aim to create a transparent ledger of water distribution transactions, fostering accountability and minimizing corruption in water management systems.
+
+8. **Lack of Technological Innovation:** Through collaborative research efforts, AquaGuard seeks to drive technological innovation in water management, ensuring that the latest advancements are applied to address the water crisis.
+
+By addressing these challenges, AquaGuard strives to be a transformative force in the global effort to ensure clean water access for all, contributing to the preservation of both human and environmental well-being.
