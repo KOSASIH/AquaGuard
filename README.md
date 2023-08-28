@@ -99,7 +99,7 @@ By addressing these challenges, AquaGuard strives to be a transformative force i
 
 # Our Technologies
 
-## Technologies We Use:
+These technologies collectively form the backbone of AquaGuard, enabling a multidimensional approach to solving the global clean water crisis through innovative solutions, data-driven insights, and community participation.
 
 1. **Artificial Intelligence (AI) and Machine Learning (ML):** Our platform harnesses AI and ML algorithms to analyze real-time water quality data, predict demand patterns, optimize distribution, and enhance desalination and purification processes.
 
