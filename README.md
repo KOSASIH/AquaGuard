@@ -13,7 +13,8 @@
    - [Mission](#mission) 
 3. [Problems We Hope To Solve](#problems-we-hope-to-solve) 
 4. [Our Technologies](#our-technologies)
-5. [AquaGuard Project Development Roadmap](#aquaguard-project-development-roadmap) 
+5. [AquaGuard Project Development Roadmap](#aquaguard-project-development-roadmap)
+6. [Aknowledgement](Docs/aknowledgement.md) 
 
 
 # Introduction
