@@ -1,3 +1,5 @@
+[![AQtech](https://clarifai.com/api/kosasih/AquaGuard/models/AQtech/badge)](https://clarifai.com/kosasih/AquaGuard/models/AQtech)
+
 # AquaGuard (**AI-Powered Water Management**) 
 
 **AquaGuard** is Revolutionizing water management with AI, ML, NLP, and Blockchain. Detect pollution, optimize distribution, and engage communities in the fight against the global clean water crisis. Real-time monitoring, predictive analytics, and transparent transactions empower us to safeguard our most precious resource.
